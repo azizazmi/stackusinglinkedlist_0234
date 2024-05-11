@@ -11,6 +11,10 @@ public:
     }
 };
 
+class Stack {
+
+};
+
 int main()
 {
     std::cout << "Hello World!\n";
