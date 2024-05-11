@@ -16,6 +16,9 @@ private:
     Node* top;
 
 public:
+    Stack() {
+        top = NULL;
+    }
 };
 
 int main()
